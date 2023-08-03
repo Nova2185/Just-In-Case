@@ -51,4 +51,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Feel free to fork, modify, and have fun with this extension!
 
-Enjoy browsing with a touch of humor and "Just in case!" 😉
+Enjoy browsing with the knowledge that you are covered. Just in case! 😉
