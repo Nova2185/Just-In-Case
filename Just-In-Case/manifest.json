@@ -1,0 +1,29 @@
+{
+    "manifest_version": 2,
+    "name": "Just in case!",
+    "version": "1.0",
+    "description": "A meme extension to replace browser history after a week of inactivity.",
+    "permissions": ["tabs", "history"],
+    "background": {
+      "scripts": ["background.js"],
+      "persistent": false
+    },
+    "content_scripts": [{
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }],
+    "icons": {
+      "16": "icon16.png",
+      "64": "icon64.png",
+      "128": "icon128.png"
+    },
+    "browser_action": {
+      "default_icon": {
+        "16": "icon16.png",
+        "64": "icon64.png",
+        "128": "icon128.png"
+      },
+      "default_popup": "popup.html"
+    }
+  }
+  
