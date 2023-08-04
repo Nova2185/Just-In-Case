@@ -47,7 +47,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Author
 
-[Diego Neri](https://github.com/Nova2185)
+[Diego Neri](https://github.com/xDiegoNeri)
 
 Feel free to fork, modify, and have fun with this extension!
 
